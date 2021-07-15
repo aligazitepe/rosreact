@@ -13,6 +13,7 @@
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
     "react-scripts": "link:../node_modules/react-scripts",
+    "roslib": "^1.1.0",
     "rosreact": "link:.."
   },
   "devDependencies": {
